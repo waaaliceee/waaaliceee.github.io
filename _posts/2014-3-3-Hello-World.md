@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: 1st book: Bioinformatics with Python Cookbook 2nd edition(Korean)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My first baby step is working on "Bioinformatics with Python Cookbook 2nd edition(Korean): 파이썬을 활용한 생명정보학 2/e."
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
